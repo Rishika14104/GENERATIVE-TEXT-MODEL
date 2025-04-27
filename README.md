@@ -18,3 +18,6 @@ This Generative Text Tool leverages the GPT-Neo 125M model to automatically crea
 
 OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/0513345c-ecbb-4163-b74b-622ecd1cf0bb)
+
+![Image](https://github.com/user-attachments/assets/00b6245e-52c1-4df7-ad4b-2fa169d53c18)
