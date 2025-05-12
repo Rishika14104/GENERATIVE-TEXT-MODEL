@@ -18,3 +18,7 @@ GPT-Neo 1.3B is an open-source, autoregressive language model developed by Eleut
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/eed7df55-1541-4346-be07-bcbc1303fefb)
+
+![Image](https://github.com/user-attachments/assets/09bb2e35-f36d-4fbe-82c9-7cc2ff10234f)
+
